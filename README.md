@@ -1,6 +1,6 @@
-# mshop
+# mShop
 
-A new Flutter project.
+A New Shopping App In Flutter
 
 ## Getting Started
 
